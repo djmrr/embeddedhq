@@ -1,6 +1,6 @@
 body {
   padding: 50px;
-  font: 20px/150% "Helvetica Neue", "Lucida Grande", Verdana, sans-serif;
+  font: 20px/150% "Open Sans";
   color: #666;
   background: #fcfcfc;
 }
@@ -9,4 +9,5 @@ input,
 textarea,
 button {
   font: inherit;
+  font-variant: small-caps;
 }
